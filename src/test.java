@@ -3,5 +3,5 @@
  */
 public class test {
     String nom ;
-    int number;
+    int value;
 }
